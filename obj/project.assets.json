@@ -1644,11 +1644,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\senai.dsvsis\\workspace\\slsf-calculator-C-\\Exemplo.csproj",
+      "projectUniqueName": "C:\\Users\\senai.dsvsis\\workspace\\slsf-winforms-calculator\\Exemplo.csproj",
       "projectName": "Exemplo",
-      "projectPath": "C:\\Users\\senai.dsvsis\\workspace\\slsf-calculator-C-\\Exemplo.csproj",
+      "projectPath": "C:\\Users\\senai.dsvsis\\workspace\\slsf-winforms-calculator\\Exemplo.csproj",
       "packagesPath": "C:\\Users\\senai.dsvsis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\senai.dsvsis\\workspace\\slsf-calculator-C-\\obj\\",
+      "outputPath": "C:\\Users\\senai.dsvsis\\workspace\\slsf-winforms-calculator\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

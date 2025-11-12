@@ -6,7 +6,24 @@
     <Nullable>enable</Nullable>
     <UseWindowsForms>true</UseWindowsForms>
     <ImplicitUsings>enable</ImplicitUsings>
+    <PackageIcon>download (1).ico</PackageIcon>
+    <RepositoryUrl>https://github.com/samueluca/slsf-winforms-calculator</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <Copyright>Samuel Lucas Santos Fernandes</Copyright>
+    <Title>Calculadora</Title>
+    <ApplicationIcon>download.ico</ApplicationIcon>
   </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="download.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="..\..\Downloads\download (1).ico">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
 
   <ItemGroup>
     <PackageReference Include="NBitcoin" Version="9.0.3" />

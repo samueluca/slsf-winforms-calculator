@@ -383,7 +383,7 @@
             Margin = new Padding(2);
             Name = "Form1";
             StartPosition = FormStartPosition.CenterScreen;
-            Text = "...";
+            Text = "Samuel Delas";
             Load += Form1_Load;
             ResumeLayout(false);
             PerformLayout();
