@@ -19,13 +19,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <None Include="..\..\Downloads\download (1).ico">
-      <Pack>True</Pack>
-      <PackagePath>\</PackagePath>
-    </None>
-  </ItemGroup>
-
-  <ItemGroup>
     <PackageReference Include="NBitcoin" Version="9.0.3" />
   </ItemGroup>
 
